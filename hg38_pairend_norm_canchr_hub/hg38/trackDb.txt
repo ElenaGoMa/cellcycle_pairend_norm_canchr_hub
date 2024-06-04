@@ -1,0 +1,331 @@
+
+
+track minus
+shortLabel minus
+longLabel minus
+type bigWig
+autoScale on
+visibility full
+compositeTrack on
+
+    track 01B_nG0_norm.canchr.plus
+    parent minus on
+    bigDataUrl CAGE/01B_nG0_norm.canchr.plus.bigWig
+    shortLabel 01B_nG0_norm.canchr.plus
+    longLabel 01B_nG0_norm.canchr.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 02B_nG1_norm.canchr.plus
+    parent minus on
+    bigDataUrl CAGE/02B_nG1_norm.canchr.plus.bigWig
+    shortLabel 02B_nG1_norm.canchr.plus
+    longLabel 02B_nG1_norm.canchr.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 03F_nG1_norm.canchr.plus
+    parent minus on
+    bigDataUrl CAGE/03F_nG1_norm.canchr.plus.bigWig
+    shortLabel 03F_nG1_norm.canchr.plus
+    longLabel 03F_nG1_norm.canchr.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 04B_nS_norm.canchr.plus
+    parent minus on
+    bigDataUrl CAGE/04B_nS_norm.canchr.plus.bigWig
+    shortLabel 04B_nS_norm.canchr.plus
+    longLabel 04B_nS_norm.canchr.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 05F_nS_norm.canchr.plus
+    parent minus on
+    bigDataUrl CAGE/05F_nS_norm.canchr.plus.bigWig
+    shortLabel 05F_nS_norm.canchr.plus
+    longLabel 05F_nS_norm.canchr.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 06B_nG2_norm.canchr.plus
+    parent minus on
+    bigDataUrl CAGE/06B_nG2_norm.canchr.plus.bigWig
+    shortLabel 06B_nG2_norm.canchr.plus
+    longLabel 06B_nG2_norm.canchr.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 07F_nG2_norm.canchr.plus
+    parent minus on
+    bigDataUrl CAGE/07F_nG2_norm.canchr.plus.bigWig
+    shortLabel 07F_nG2_norm.canchr.plus
+    longLabel 07F_nG2_norm.canchr.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 08B_totalG0_norm.canchr.plus
+    parent minus on
+    bigDataUrl CAGE/08B_totalG0_norm.canchr.plus.bigWig
+    shortLabel 08B_totalG0_norm.canchr.plus
+    longLabel 08B_totalG0_norm.canchr.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 09B_totalG1_norm.canchr.plus
+    parent minus on
+    bigDataUrl CAGE/09B_totalG1_norm.canchr.plus.bigWig
+    shortLabel 09B_totalG1_norm.canchr.plus
+    longLabel 09B_totalG1_norm.canchr.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 10B_totalS_norm.canchr.plus
+    parent minus on
+    bigDataUrl CAGE/10B_totalS_norm.canchr.plus.bigWig
+    shortLabel 10B_totalS_norm.canchr.plus
+    longLabel 10B_totalS_norm.canchr.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 11B_totalG2_norm.canchr.plus
+    parent minus on
+    bigDataUrl CAGE/11B_totalG2_norm.canchr.plus.bigWig
+    shortLabel 11B_totalG2_norm.canchr.plus
+    longLabel 11B_totalG2_norm.canchr.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 12B_totalM_rep2_norm.canchr.plus
+    parent minus on
+    bigDataUrl CAGE/12B_totalM_rep2_norm.canchr.plus.bigWig
+    shortLabel 12B_totalM_rep2_norm.canchr.plus
+    longLabel 12B_totalM_rep2_norm.canchr.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 13B_totalM_rep3_norm.canchr.plus
+    parent minus on
+    bigDataUrl CAGE/13B_totalM_rep3_norm.canchr.plus.bigWig
+    shortLabel 13B_totalM_rep3_norm.canchr.plus
+    longLabel 13B_totalM_rep3_norm.canchr.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+
+track plus
+shortLabel plus
+longLabel plus
+type bigWig
+autoScale on
+visibility full
+compositeTrack on
+
+    track 01B_nG0_norm.canchr.minus
+    parent plus on
+    bigDataUrl CAGE/01B_nG0_norm.canchr.minus.bigWig
+    shortLabel 01B_nG0_norm.canchr.minus
+    longLabel 01B_nG0_norm.canchr.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 02B_nG1_norm.canchr.minus
+    parent plus on
+    bigDataUrl CAGE/02B_nG1_norm.canchr.minus.bigWig
+    shortLabel 02B_nG1_norm.canchr.minus
+    longLabel 02B_nG1_norm.canchr.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 03F_nG1_norm.canchr.minus
+    parent plus on
+    bigDataUrl CAGE/03F_nG1_norm.canchr.minus.bigWig
+    shortLabel 03F_nG1_norm.canchr.minus
+    longLabel 03F_nG1_norm.canchr.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 04B_nS_norm.canchr.minus
+    parent plus on
+    bigDataUrl CAGE/04B_nS_norm.canchr.minus.bigWig
+    shortLabel 04B_nS_norm.canchr.minus
+    longLabel 04B_nS_norm.canchr.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 05F_nS_norm.canchr.minus
+    parent plus on
+    bigDataUrl CAGE/05F_nS_norm.canchr.minus.bigWig
+    shortLabel 05F_nS_norm.canchr.minus
+    longLabel 05F_nS_norm.canchr.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 06B_nG2_norm.canchr.minus
+    parent plus on
+    bigDataUrl CAGE/06B_nG2_norm.canchr.minus.bigWig
+    shortLabel 06B_nG2_norm.canchr.minus
+    longLabel 06B_nG2_norm.canchr.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 07F_nG2_norm.canchr.minus
+    parent plus on
+    bigDataUrl CAGE/07F_nG2_norm.canchr.minus.bigWig
+    shortLabel 07F_nG2_norm.canchr.minus
+    longLabel 07F_nG2_norm.canchr.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 08B_totalG0_norm.canchr.minus
+    parent plus on
+    bigDataUrl CAGE/08B_totalG0_norm.canchr.minus.bigWig
+    shortLabel 08B_totalG0_norm.canchr.minus
+    longLabel 08B_totalG0_norm.canchr.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 09B_totalG1_norm.canchr.minus
+    parent plus on
+    bigDataUrl CAGE/09B_totalG1_norm.canchr.minus.bigWig
+    shortLabel 09B_totalG1_norm.canchr.minus
+    longLabel 09B_totalG1_norm.canchr.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 10B_totalS_norm.canchr.minus
+    parent plus on
+    bigDataUrl CAGE/10B_totalS_norm.canchr.minus.bigWig
+    shortLabel 10B_totalS_norm.canchr.minus
+    longLabel 10B_totalS_norm.canchr.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 11B_totalG2_norm.canchr.minus
+    parent plus on
+    bigDataUrl CAGE/11B_totalG2_norm.canchr.minus.bigWig
+    shortLabel 11B_totalG2_norm.canchr.minus
+    longLabel 11B_totalG2_norm.canchr.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 12B_totalM_rep2_norm.canchr.minus
+    parent plus on
+    bigDataUrl CAGE/12B_totalM_rep2_norm.canchr.minus.bigWig
+    shortLabel 12B_totalM_rep2_norm.canchr.minus
+    longLabel 12B_totalM_rep2_norm.canchr.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track 13B_totalM_rep3_norm.canchr.minus
+    parent plus on
+    bigDataUrl CAGE/13B_totalM_rep3_norm.canchr.minus.bigWig
+    shortLabel 13B_totalM_rep3_norm.canchr.minus
+    longLabel 13B_totalM_rep3_norm.canchr.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+

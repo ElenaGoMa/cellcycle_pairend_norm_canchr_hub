@@ -1,0 +1,5 @@
+hub cellcycle_pairend_norm_canchr_hub 
+shortLabel cellcycle_pairend_norm_canchr_hub
+longLabel cellcycle_pairend_norm_canchr_hub
+genomesFile genomes.txt
+email e.gomez-marin@lms.mrc.ac.uk
